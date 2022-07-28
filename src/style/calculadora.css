@@ -1,0 +1,39 @@
+.button{
+    min-width: 4%;
+}
+
+.button-operator{
+    border-color: #9d9797;
+    min-width: 4%;
+    background: #E2D7D4;;
+}
+
+.button-equals{
+    min-width: 8.7%;
+}
+
+.operation{
+    background-color: antiquewhite;
+    width: 22%;
+    margin-left: 39%;
+}
+
+.button{
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #262834;
+    color: #ffffff;
+}
+
+.close{
+    margin: 5px;
+    margin-left: 26px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #262834;
+    color: #ffffff;
+}
+
